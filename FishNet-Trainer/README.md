@@ -7,7 +7,7 @@ It also outputs to a ``.csv`` file for easy parsing into the FishNet / other net
 
 Simply install the requirements below.
 - [Python 2.7 32-bit](https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi)
-- [Pygame 2.7 32-bit](http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi)
+- [Pygame 1.9 32-bit](http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi)
 
 Then fork / clone this repo to your desktop. Then put your images into 
 a 0001.jpg, 0002.jpg, etc format for training.
