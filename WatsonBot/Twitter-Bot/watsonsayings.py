@@ -1,2 +1,2 @@
-hiding = ["You can't see me right now!", "Peek-a-boo!", "Leave me alone. I am a grumpy gills.", "I'm a little camera shy right now, sorry! #HackISU"]
-swimming =["Hello #HackISU! *glub glub*", "Hello, World!", "Tell me I'm pretty!!", "*taps glass* Is this thing on? "]
+hiding = ["You can't see me right now!", "Peek-a-boo!", "Leave me alone. I am a grumpy gills.", "I'm a little camera shy right now, sorry! #HackISU", "Later, losers", "Something is fishy...", "DO NOT DISTURB", "Please leave me alone", "*angst*", "Go away :("]
+swimming =["Hello #HackISU! *glub glub*", "Hello, World!", "Tell me I'm pretty!!", "*taps glass* Is this thing on?", "You betta believe I'm cute as heck.", "GOTTA SWIM FAST!! *zoom zoom*", "On my way to steal yo girl", "Watson Cam: Betta than Ever", "Look at me, I'm betta than you!"]

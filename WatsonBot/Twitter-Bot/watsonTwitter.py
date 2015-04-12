@@ -53,4 +53,4 @@ def generateTweet():
 	else: 
 		status = random.choice(swimming)
 
-	postStatus(status + " http://www.gabbyortman.me/watson" + " #HackISU #BigBetta") 
+	postStatus(activity + ": " + status + " http://www.gabbyortman.me/watson" + " #HackISU #BigBetta") 
