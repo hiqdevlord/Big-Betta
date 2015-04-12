@@ -1,0 +1,2 @@
+hiding = ["You can't see me right now!", "Peek-a-boo!", "Leave me alone. I am a grumpy gills.", "I'm a little camera shy right now, sorry! #HackISU"]
+swimming =["Hello #HackISU! *glub glub*", "Hello, World!", "Tell me I'm pretty!!", "*taps glass* Is this thing on? "]
