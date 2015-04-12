@@ -7,4 +7,4 @@ Humans really are amazing creatures, our brain can tell the difference between m
 
 ### Table of Contents
 - [FishNet-Trainer](https://github.com/QuantumFractal/Big-Betta/blob/master/FishNet-Trainer/) - A tiny script for processing a set of images based on activity or position of an object.
-- [WatsonBot](https://github.com/QuantumFractal/Big-Betta/blob/master/WatsonBot/) - A twitter bot for tweeting activities
+- [WatsonBot](https://github.com/QuantumFractal/Big-Betta/blob/master/WatsonBot/) - Scripts for tweeting activity, image capture, and image saving. 
