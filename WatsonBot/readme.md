@@ -2,8 +2,9 @@
 
 #### Requirements
 
-Simply install the requirements below.
+Simply install the requirements below:
 - [Python 2.7 32-bit](https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi)
+
 - [Pip](https://pip.pypa.io/en/latest/installing.html)
 
 Use pip to install the following libraries below: 
@@ -33,9 +34,13 @@ Scheduling will be done using your pi's cron file. Capture, upload and tweet as 
 Please refer to the documentation of the following APIs and API wrappers for OAUTH help and other important details to get started. 
 
 -[Imgur API](https://api.imgur.com/)
+
 -[PyImgur Documentation](http://pyimgur.readthedocs.org/en/latest/reference.html)
+
 -[Twitter API](https://dev.twitter.com/overview/documentation)
+
 -[Python-Twitter Documentation](https://github.com/bear/python-twitter)
+
 -[PiCamera Documentation](https://picamera.readthedocs.org/en/release-1.10/)
 
 ###Encouragement
