@@ -13,15 +13,15 @@ pip install python-twitter
 pip install pyimgur
 pip install picamera 
 ```
-Note: You can use any Twitter API Wrapper for Python, I just happen to use Python-Twitter 
+Note: You can use any Twitter API Wrapper for Python, I just happen to use Python-Twitter. 
 
 ####Usage
 
-watsonCam will automatically take images using the PiCamera API
+watsonCam will automatically take images using the PiCamera API.
 
 -There are two methods located here, one for taking one picture at a time, and another for bulk images (great for creating a timelapse!). 
 
-watsonImgur will automatically upload images using the PyImgur API
+watsonImgur will automatically upload images using the PyImgur API.
 
 watsonTwitter will automatically tweet a status for you. 
 
@@ -38,4 +38,5 @@ Please refer to the documentation of the following APIs and API wrappers for OAU
 -[Python-Twitter Documentation](https://github.com/bear/python-twitter)
 -[PiCamera Documentation](https://picamera.readthedocs.org/en/release-1.10/)
 
+###Encouragement
 The possibilites are endless. You can do it! 
